@@ -1,91 +1,105 @@
+## 基础信息
+> 林雪<br>
+> 男<br>
+> 18676660349<br>
+> anonymous.jakelin@outlook.com
+
+## 教育信息
+
+## 近两年重点参与项目概述
+- <font color='blue'>**说明：如下所有项目信息公开均取得雇主及客户许可**</font>
+### 项目名称
+华夏基金自动化运营外包数据管理监控平台
+
+### 项目背景
+华夏基金作为首批私募基金外包服务机构，目前已为上百家境内外私募管理人、养老金公司的上千只产品提供估值核算、份额登记服务及投资风险与绩效分析全面服务方案。其中，估值核算服务流程包括数据获取、数据处理、结果核对和结果生成发布。
+华夏基金外包服务人员每天需要从网上银行、公开资讯数据及托管人邮件发送的估值表、资金调节表、对账单中提取目标数据，并录入至自研数据系统和估值系统中，进行交易核算和数据核对。
+数据手工处理的现状造成如下问题：
+- 制约业务的快速扩张
+- 增加数据处理的时长
+- 难以保证数据的准确
+
+### 项目内容
+基于迅策数据网关现有功能，结合华夏基金实际业务场景进行系统改造完善，使提供给华夏基金的系统可以满足：
+- 网银数据爬取：自动登录网上银行，爬取网银企业账号下关联的不同产品的余额、流水、回单等数据，并进行落库存取
+- 邮件解析：匹配指定邮箱收到的符合条件的邮件，解析邮件正文和邮件附件
+- 规则转换：支持转换规则配置，将网银、邮件及网页等原始数据根据业务规则转换成符合业务意义的数据
+- 数据传输：将转换后的数据以符合目标系统的格式转入至自研数据系统和估值系统
+- 数据生产链路监控：对数据源、获取、解析、入库、转换、传输等各数据链路节点进行异常监控和提醒
+
+### 项目价值
+迅策数据网关在华夏基金的建设，使华夏基金获得如下收益：
+- 解放专业人员生产力
+- 助力业务快速增长
+- 实现数据实时处理
+- 避免数据丢失、错误等异常
+- 促进业务数据化建设
+
+同时，该项目也让迅策科技收益颇丰：
+- 收获头部客户的认可
+- 丰富系统应用场景
+
+### 项目角色
+- 售前沟通：通过与客户业务人员沟通，明确潜在的合作切入点，并整理编写现有流程数字化解决方案；
+- POC测试：方案得到客户确认后，明确POC测试方案，基于现有程序尽快完成POC测试，使POC效果满足客户预期，并协助客户完成立项方案编写；
+- 需求沟通及实现方案设计：合同签订后，针对具体的业务场景进行需求沟通，根据沟通结果整理出产品实现方案供开发进行程序设计；
+- 产品实施质量管控
+- 沉淀
+
 ---
-layout: cv
-title: Isaac Newtons's CV
+### 项目名称
+招商基金实时数据处理及指标中心项目
+
+### 项目背景
+招商基金作为排名前十的公募基金，产品规模上千亿，每个交易日产生大量的行情数据、交易数据、结算数据和产品数据，而这些数据存储在不同的业务系统或数据中心中。同时，盘中的行情和交易数据未做实时处理，难以较好的支持投资和风控。
+基于集团信息系统建设要求和证券市场风险考虑，计划建设实时数据处理平台和指标中心，实现数据实时处理、指标实时计算、风险实时预警。
+
+### 项目内容
+截止目前，该项目分为两期。其中，一期主要建设实时数据处理平台，解决数据分散、延迟等问题，目前已完成验收；二期主要建设指标中心，解决指标计算慢耗时久、不支持自定义、可视化差等问题，目前尚在需求收集和POC测试阶段。
+
+
+统一的模型管理、统一的数据服务、统一的数据视图，统一的数据规范以及统一的数据管理
+
+### 项目角色
+
+### 项目价值
+
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+### 项目名称
+景林资产全资产管理平台
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+### 项目背景
 
+### 项目内容
 
-## Currently
+### 项目角色
 
-Standing on the shoulders of giants
+### 项目价值
 
-### Specialized in
+---
+### 项目名称
+招证资管智能委外投资管理平台
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### 项目背景
 
+### 项目内容
 
-### Research interests
+### 项目角色
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### 项目价值
 
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+---
+## 其他部分项目
+客户类型|项目名称|参与阶段
+--|--|--|--
+银行|招商银行订单执行系统|售前|
+公募|创金合信基金数据集成及监控平台|售前、招标、上线、验收|
+公募|东方阿尔法订单执行系统、监管报送平台|上线|
+公募|汇添富基金实时数据跟踪处理平台|售前|
+公募|中银基金新一代数据中心|售前|
+公募|国寿安保基金一体化金融平台|售前|
+信托|外贸信托交易系统自动化运维平台|售前、招标、上线|
+信托|四川信托自动化智能运营平台|售前|
+券商|招证托管机构数据服务共享平台|售前|
+券商|安信证券数据云服务平台|售前|
+私募|高毅资本全资产管理平台|上线、验收|
